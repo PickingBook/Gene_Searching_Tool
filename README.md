@@ -1,4 +1,4 @@
-# Gene_Id_Searching_Tool
+# Gene_Searching_Tool
 *******
 *******
 
